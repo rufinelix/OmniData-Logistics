@@ -1,0 +1,11 @@
+carrier_id,carrier_name,base_rate_usd,rate_per_km,fuel_surcharge_pct,otd_historical,in_full_historical,co2_g_per_ton_km,energy_source,effective_range_km,fleet_capacity_trucks,noise_pollution_db
+CAR-001,EcoTrans European Logistics,180.0,1.45,0.12,0.965,0.985,28.5,Bio-LNG,1100.0,85,68.0
+CAR-002,VoltFreight Heavy Transport,240.0,1.65,0.05,0.94,0.99,8.2,Electric,420.0,45,58.5
+CAR-003,Continental Road Express,150.0,1.3,0.18,0.92,0.955,62.0,Diesel,1800.0,220,76.5
+CAR-004,HydroHaul Green Corridors,290.0,1.85,0.08,0.95,0.98,4.5,Hydrogen,750.0,30,62.0
+CAR-005,Nordic Clean Lines,195.0,1.5,0.1,0.975,0.992,18.0,HVO,1500.0,110,71.0
+CAR-006,BlueCorridor Gas Freight,170.0,1.38,0.14,0.935,0.965,44.0,LNG,1250.0,140,70.0
+CAR-007,Iberia Prime Logistics,155.0,1.32,0.17,0.91,0.945,64.5,Diesel,1750.0,190,77.0
+CAR-008,Alpine EcoShuttle,225.0,1.6,0.06,0.96,0.988,9.5,Electric,450.0,55,59.0
+CAR-009,Rhine-Alpine Green Cargo,185.0,1.42,0.11,0.955,0.978,24.0,Bio-LNG,1150.0,95,67.5
+CAR-010,Apex Sustainable Freight,205.0,1.52,0.09,0.97,0.989,16.5,HVO,1400.0,75,70.5

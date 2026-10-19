@@ -1,0 +1,13 @@
+{
+  "max_transit_time_hours": 48.0,
+  "max_detour_km_allowed": 30.0,
+  "max_refueling_delay_minutes": 45.0,
+  "safety_battery_buffer_pct": 0.15,
+  "green_premium_pct_limit": 0.15,
+  "shadow_carbon_price_per_ton": 80.0,
+  "hazmat_restricted_corridors": [
+    "MAD-BCN-Tunnel",
+    "ALP-Pass"
+  ],
+  "refrigerated_temp_tolerance_c": 2.0
+}
