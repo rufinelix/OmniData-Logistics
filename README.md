@@ -121,9 +121,7 @@ The application operates with zero hardcoded API keys and includes robust, grace
    ```ini
    OPEN_METEO_API_KEY='your_open_meteo_api_key_here'
    OPENCHARGE_MAP_API_KEY='your_opencharge_map_api_key_here'
-   HUGGING_FACE_API_KEY='your_hugging_face_api_key_here'
    TOMTOM_TRAFFIC_API_KEY='your_tomtom_traffic_api_key_here'
-   MAPBOX_API_KEY='your_mapbox_api_key_here'
    NREL_AFDC_API_KEY='your_nrel_afdc_api_key_here'
    ```
 
